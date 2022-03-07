@@ -1,0 +1,24 @@
+[
+    {
+        "Person name: ": "Dr. Michael von Abercron",
+        "Person company": " CDU/CSU",
+        "Social network": {
+            "von-abercron.de/": "http://www.von-abercron.de/",
+            "Facebook": "https://www.facebook.com/doris.achelwilm.dielinke/",
+            "Twitter": "https://twitter.com/DorisAchelwilm",
+            "doris-achelwilm.de": "http://www.doris-achelwilm.de/",
+            "Instagram": "https://www.instagram.com/doris_achelwilm/"
+        }
+    },
+    {
+        "Person name: ": "Doris Achelwilm",
+        "Person company": " Die Linke",
+        "Social network": {
+            "von-abercron.de/": "http://www.von-abercron.de/",
+            "Facebook": "https://www.facebook.com/doris.achelwilm.dielinke/",
+            "Twitter": "https://twitter.com/DorisAchelwilm",
+            "doris-achelwilm.de": "http://www.doris-achelwilm.de/",
+            "Instagram": "https://www.instagram.com/doris_achelwilm/"
+        }
+    }
+]
